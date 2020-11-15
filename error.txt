@@ -1,0 +1,2 @@
+file error!!! 
+ 	ID:6707	 ./data/sunrgbd/Dataset/SUNRGBD/kv2/kinect2data/002922_2014-06-26_15-43-16_094959634447_rgbf000089-resize/annotation2Dfinal/index.json

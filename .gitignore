@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+Dataset/
+__pycache__/
+sunrgb_train_test_data/
